@@ -1,0 +1,12 @@
+.list{
+    list-style: none;
+    display: flex;
+    justify-content: end;
+    margin-right: 5rem;
+}
+
+.list li{
+    margin-right: 2rem;
+    cursor: pointer;
+    /* font-weight: bold; */
+}
